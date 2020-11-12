@@ -1,7 +1,7 @@
 # machine-works-icpc-2011
-Some solutions for the machine-works problem presented in the ICPC finals 2011 
-A naive approach is presente in the main.c file, it gives the correct output, but runs out of memory under large input (25Mo)
-I'm currently working on a new approach with python 
+Some solutions for the machine-works problem presented in the ICPC finals 2011. 
+A naive approach is presented in the main.c file, it gives the correct output, but runs out of memory under large input (25Mo).
+I'm currently working on a new approach with python. 
 ## Problem F
 ### Machine Works Prompt
 
