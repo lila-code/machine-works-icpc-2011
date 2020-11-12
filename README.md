@@ -35,8 +35,8 @@ The last test case is followed by a line containing three zeros.
 For each test case, display its case number followed by the largest number of dollars that ACM can have at the end of
 day D + 1.
 
-Example input                                               Example output
-6 10 20                                                     Case 1 : 44
+Example input                                               
+6 10 20                                                     
 6 12 1 3  
 1 9 1 2  
 3 2 1 2  
@@ -44,3 +44,6 @@ Example input                                               Example output
 4 11 7 4  
 2 10 9 1  
 0 0 0 
+
+Example output
+Case 1 : 44
